@@ -1,2 +1,2 @@
 # Penetration-Testing-
-Notes, tools and solve CTFs 
+My penetration testing notes, writeups, and learning resources.
